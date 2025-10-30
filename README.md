@@ -192,10 +192,4 @@ Once deployed via **Helm on AWS EKS**, this project will showcase a **production
 
 **⭐ If you like this project, give it a star on GitHub!**
 Let’s keep building cool stuff — one container at a time 🧠🚀
-
-```
-
----
-
-Would you like me to add **GitHub badges** (like “Made with Node.js”, “Helm Ready”, “AWS EKS”) and a **preview screenshot section** next to make it even more professional and eye-catching for recruiters or portfolio viewers?
 ```
