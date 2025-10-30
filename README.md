@@ -162,7 +162,7 @@ By completing this project, you will:
 
 ## 🧠 Author
 
-👨‍💻 **Sri Balaji**
+👨‍💻 **Sri Balaji AWS and DevOps Mastero**
 🔗 Portfolio: [https://sribalaji.cloud](https://sribalaji.cloud)
 📧 Email: [sribalajidevops@gmail.com](mailto:sribalajidevops@gmail.com)
 📞 Contact: +91 93453 60790
