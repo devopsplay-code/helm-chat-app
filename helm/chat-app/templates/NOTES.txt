@@ -1,0 +1,13 @@
+🎉 Helm Chat App Deployed Successfully! 🎉
+
+Frontend Service: {{ .Release.Name }}-frontend
+Backend Service: {{ .Release.Name }}-backend
+
+To check services:
+  kubectl get svc
+
+To verify pods:
+  kubectl get pods
+
+To get LoadBalancer URL (for frontend):
+  kubectl get svc {{ .Release.Name }}-frontend

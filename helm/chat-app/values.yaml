@@ -1,0 +1,23 @@
+replicaCount: 1
+
+image:
+  repository: ""
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 80
+
+frontend:
+  image: "sribalajidevops/chat-frontend:latest"
+  containerPort: 80
+
+backend:
+  image: "sribalajidevops/chat-backend:latest"
+  containerPort: 5000
+
+resources: {}
+nodeSelector: {}
+tolerations: []
+affinity: {}
